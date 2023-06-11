@@ -1,4 +1,4 @@
-# Music School "Theme A"
+# Millar Piano Duo
 
 ## Description
-The first in a series of progressively complex websites created specifically for music schools.
+Building a website from scratch for my piano duo using HTML5, CSS, JavaScript, React, and possibly other languages as time rolls along.
