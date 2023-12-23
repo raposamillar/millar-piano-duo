@@ -5,6 +5,15 @@
   padding: 0px;
 }
 
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: -webkit-sticky;
+  position: sticky;
+
+}
+
 header h1 a {
   font-family: Playfair Display, Baskerville, serif;
   font-weight: bold;
@@ -14,5 +23,7 @@ header h1 a {
 }
 
 header nav ul {
+  display: flex;
+  flex-wrap: wrap;
   list-style-type: none;
 }
