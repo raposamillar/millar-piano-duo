@@ -11,13 +11,12 @@ header {
   justify-content: space-between;
   position: -webkit-sticky;
   position: sticky;
-
 }
 
 header h1 a {
   font-family: Playfair Display, Baskerville, serif;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 40px;
   color: #AB274F;
   text-decoration: none;
 }
@@ -26,4 +25,10 @@ header nav ul {
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
+  font-family: 'Courier New', Courier, monospace;
+  justify-content: space-around;
+}
+
+header nav ul li {
+  font-size: 20px;
 }
